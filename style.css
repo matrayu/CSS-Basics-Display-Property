@@ -1,0 +1,55 @@
+body * {
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+main {
+    padding: 30px;
+    font-size: 0px;
+}
+
+.box-parent {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+  .top {
+      width: 50%;
+      height: 200px;
+      display: inline-block;
+  }
+
+  .bottom {
+      width: 33.33%;
+      height: 300px;
+      display: inline-block;
+  }
+
+  .border {
+    border: 1px solid black;
+  }
+
+  .green-box {
+      background-color: green;
+  }
+
+  .blue-box {
+      background-color: blue;
+  }
+
+  .grey-box {
+    background-color: grey;
+  }
+
+  .black-box {
+      background-color: black;
+  }
+
+  .orange-box {
+      background-color: orange;
+  }
